@@ -142,9 +142,8 @@ input:hover {
   margin-left: 1rem;
 }
 .__navbar-section .__navbar--search .__serach--dropdownbtn {
-  background-color: #eee;
+  background-color: #fff;
   border: 1px solid #cfcfcf;
-  border-right: 0;
 }
 .__navbar-section .__navbar--search input {
   padding: 0.5rem 1rem;
